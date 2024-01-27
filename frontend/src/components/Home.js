@@ -8,6 +8,7 @@ const Home = () => {
       <p>Keno korooooo</p>
       <p>POK POK</p>
       <p>lllllllllll saklin</p>
+    <h1> for pull </h1>
     </div>
   )
 }
